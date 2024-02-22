@@ -41,7 +41,7 @@
     
   }
 
-  .metas-2024 {
+.metas-2024 {
     color: #000000;
     text-align: left;
     font: 400 50px "Faster One", sans-serif;
@@ -53,4 +53,13 @@
     height: 57px;
   }
 
-  
+.show {
+    color: #ffffff;
+    text-align: left;
+    font: 400 45px "Chewy", sans-serif;
+    position: absolute;
+    left: 146px;
+    top: 430px;
+    width: 122px;
+    height: 58px;
+  }
