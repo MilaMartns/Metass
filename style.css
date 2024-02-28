@@ -64,4 +64,46 @@
     height: 58px;
   }
 
-  
+  .formatura {
+    color: #ffffff;
+    text-align: left;
+    font: 400 45px "Chewy", sans-serif;
+    position: absolute;
+    left: 494px;
+    top: 430px;
+    width: 148px;
+    height: 68px;
+  }
+
+  .viajar {
+    color: #ffffff;
+    text-align: left;
+    font: 400 45px "Chewy", sans-serif;
+    position: absolute;
+    left: 849px;
+    top: 430px;
+    width: 140px;
+    height: 58px;
+  }
+
+  .ENEM {
+    color: #ffffff;
+    text-align: left;
+    font: 400 45px "Chewy", sans-serif;
+    position: absolute;
+    left: 1211px;
+    top: 432px;
+    width: 140px;
+    height: 58px;
+  }
+
+  .faculdade {
+    color: #ffffff;
+    text-align: left;
+    font: 400 45px "Chewy", sans-serif;
+    position: absolute;
+    left: 280px;
+    top: 826px;
+    width: 78px;
+    height: 50px;
+  }
