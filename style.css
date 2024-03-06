@@ -2,7 +2,7 @@
     padding: 0%;
     margin: 0%;
   }
-.fundo{
+.background{
 
     background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
     linear-gradient(
@@ -55,7 +55,7 @@
   }
 
 .show {
-    color: #ffffff;
+    color: #000000;
     text-align: left;
     font: 400 45px "Chewy", sans-serif;
     position: absolute;
@@ -75,7 +75,7 @@
   }
 
   .formatura {
-    color: #ffffff;
+    color: #000000;
     text-align: left;
     font: 400 45px "Chewy", sans-serif;
     position: absolute;
@@ -86,7 +86,7 @@
   }
 
   .viajar {
-    color: #ffffff;
+    color: #000000;
     text-align: left;
     font: 400 45px "Chewy", sans-serif;
     position: absolute;
@@ -97,7 +97,7 @@
   }
 
   .ENEM {
-    color: #ffffff;
+    color: #000000;
     text-align: left;
     font: 400 45px "Chewy", sans-serif;
     position: absolute;
@@ -108,7 +108,7 @@
   }
 
   .faculdade {
-    color: #ffffff;
+    color: #000000;
     text-align: left;
     font: 400 45px "Chewy", sans-serif;
     position: absolute;
