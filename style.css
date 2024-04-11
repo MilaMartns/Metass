@@ -4,28 +4,9 @@
   }
 .background{
 
-    background: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    linear-gradient(
-      180deg,
-      rgba(0, 0, 0, 0.87) 0%,
-      rgba(45, 192, 255, 0) 0.009999999747378752%,
-      rgba(0, 0, 0, 1) 2.616279013454914%,
-      rgba(222, 17, 255, 0.51) 17.296510934829712%,
-      rgba(242, 24, 220, 0.95) 50.726741552352905%,
-      rgba(222, 17, 255, 0.95) 86.77325248718262%,
-      rgba(7, 2, 7, 0.95) 99.12790656089783%
-    ),
-    linear-gradient(
-      180deg,
-      rgba(203, 25, 248, 0.87) 0%,Livro
-      rgba(45, 192, 255, 0) 0.009999999747378752%,
-      rgba(157, 32, 255, 1) 1.5988372266292572%,
-      rgba(212, 43, 239, 0.95) 21.656976640224457%,
-      rgba(244, 9, 9, 0.95) 47.92666435241699%,
-      rgba(249, 65, 230, 0.95) 97.8197693824768%
-    );
+  background: crimson;
   width: 100%;
-  height: 990px;
+  height: 10000px;
   position: relative;
   border: 0%
   overflow: hidden;
@@ -48,7 +29,7 @@
     font: 400 50px "Faster One", sans-serif;
     text-decoration: line-through;
     position: absolute;
-    left: 630px;
+    left: 750px;
     top: 150px;
     width: 1002px;
     height: 57px;
@@ -70,50 +51,44 @@
       width: 78px;
       height: 50px;
     }
-    width: 122px;
-    height: 58px;
-  }
+
 
   .formatura {
     color: #000000;
     text-align: left;
-    font: 400 45px "Chewy", sans-serif;
+    font: 45px "Chewy", sans-serif;
     position: absolute;
-    left: 494px;
-    top: 430px;
-    width: 148px;
+    left: 149px;
+    top: 500px;
     height: 68px;
   }
 
   .viajar {
     color: #000000;
     text-align: left;
-    font: 400 45px "Chewy", sans-serif;
+    font: 45px "Chewy", sans-serif;
     position: absolute;
-    left: 849px;
-    top: 430px;
-    width: 140px;
+    left: 150px;
+    top: 570px;
     height: 58px;
   }
 
   .ENEM {
     color: #000000;
     text-align: left;
-    font: 400 45px "Chewy", sans-serif;
+    font: 45px "Chewy", sans-serif;
     position: absolute;
-    left: 1211px;
-    top: 432px;
-    width: 140px;
+    left: 150px;
+    top: 640px;
     height: 58px;
   }
 
   .faculdade {
     color: #000000;
     text-align: left;
-    font: 400 45px "Chewy", sans-serif;
+    font: 45px "Chewy", sans-serif;
     position: absolute;
-    left: 280px;
-    top: 826px;
-    width: 78px;
+    left: 150px;
+    top: 710px;
     height: 50px;
   }
