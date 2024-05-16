@@ -85,3 +85,15 @@
     top: 710px;
     height: 50px;
   }
+
+.gif_video {
+
+  text-align: left;
+  position: absolute;
+  padding: 10px;
+  top: 400px;
+  left: 515px;
+  width: 850px;
+  
+}
+
